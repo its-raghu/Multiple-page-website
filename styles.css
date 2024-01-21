@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.search-icon{
+    position: absolute;
+    left: 30px;
+    top: 20px;
+}
+.span{
+    color:#2F6CE5;
+}
+.picture{
+    position: relative;
+}
+.comp-text{
+    color: white;
+    position: absolute;
+    top: 66%;
+    left: 16%;
+}
+.content{
+    display: flex;
+}
+.container{
+    display: flex;
+}
+.container > ul{
+    display: flex;
+    list-style: none;
+    gap: 3rem;
+    margin-top: 2rem;
+    font-weight: 600;
+}
+.add-buttons{
+    display: flex;
+    justify-content: end;
+}
+.icon-btn{
+    position: relative;
+    top: 13px;
+    right: 170px;
+}
+.profile{
+    display: flex;
+}
+.svg-icons{
+    position: absolute;
+    right: 3rem;
+    bottom: 2rem;
+}
+.eye-svg{
+    margin-right: 1rem;
+}
+.share-svg{
+    margin-left: 4rem;
+    background-color: #EDEEF0;
+    padding: 0.5rem
+}
