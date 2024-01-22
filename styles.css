@@ -113,10 +113,11 @@
     display: flex;
     position: absolute;
     top: 54rem;
-    right: 11.2rem;
+    right: 12rem;
 }
 .pg-info{
     position: relative;
     top: 1.2rem;
-    left: 0.7rem;
+    left: 0.6rem;
+    font-weight: 100;
 }
