@@ -80,11 +80,18 @@
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
+.color{
+    color: #02B875;
+}
 .three-dot{
     background-color: #BFBFC0;
     border-radius: 3px;
 }
-.drop-btn{
+.drop-menu{
     position: absolute;
-    right: 5rem;
+    right: 2.5rem;
+}
+.dot{
+    position: absolute;
+    top: 3.5rem;
 }
