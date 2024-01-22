@@ -95,3 +95,27 @@
     position: absolute;
     top: 3.5rem;
 }
+.posts{
+    margin-bottom: 2rem;
+}
+.side-row{
+    display: flex;
+    position: absolute;
+    top: 50rem;
+    right: 20rem;
+}
+.pencil-icon{
+    position: relative;
+    left: 8rem;
+}
+.info{
+    display: flex;
+    position: absolute;
+    top: 54rem;
+    right: 11.2rem;
+}
+.pg-info{
+    position: relative;
+    top: 1.2rem;
+    left: 0.7rem;
+}
