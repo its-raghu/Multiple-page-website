@@ -34,12 +34,13 @@
 }
 .add-buttons{
     display: flex;
-    justify-content: end;
+    position: relative;
+    right: 7.5rem;
 }
 .icon-btn{
     position: relative;
     top: 13px;
-    right: 170px;
+    right: 11.5rem;
 }
 .profile{
     display: flex;
