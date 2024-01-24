@@ -21,6 +21,15 @@
 }
 .content{
     display: flex;
+    justify-content: center;
+    max-width: 1800px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+hr{
+    max-width: 80%;
+    margin: auto;
 }
 .container{
     display: flex;
